@@ -1,6 +1,6 @@
-# XenoPulse
+# XenoWatch
 
-XenoPulse is a lightweight Windows C++ application that monitors the activity of XenForo forum members. It periodically checks the "Last seen" status on a member's profile and logs any changes, allowing you to track activity in real-time.
+XenoWatch is a lightweight Windows C++ application that monitors the activity of XenForo forum members. It periodically checks the "Last seen" status on a member's profile and logs any changes, allowing you to track activity in real-time.
 
 ---
 
