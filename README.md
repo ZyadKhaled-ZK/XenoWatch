@@ -19,7 +19,7 @@ XenoWatch is a lightweight Windows C++ application that monitors the activity of
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/YourUsername/XenoPulse.git
+git clone https://github.com/YourUsername/XenoWatch.git
 
 2. Open the project in Visual Studio (tested with VS2019/VS2022)
 
@@ -37,7 +37,7 @@ Example `config.ini`:
 # Activity Watcher Configuration
 
 # URL to monitor
-url=https://forums.example.com/members/username.1/
+url=https://forums.example.com/members/username/
 
 # Poll interval in seconds (minimum 5)
 poll_interval=10
